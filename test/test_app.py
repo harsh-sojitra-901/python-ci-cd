@@ -1,4 +1,4 @@
-from app import app
+from app import *
 
 
 def test_home_route_returns_success_message():
